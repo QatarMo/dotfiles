@@ -29,12 +29,12 @@ selection-foreground = #acb1ab
 background-opacity = 0.15
 background-blur-radius = 15
 
-shell-integration-features = no-cursor,sudo,no-title
-cursor-style = block
-mouse-scroll-multiplier = 2
-window-padding-balance = true
-window-save-state = always
-window-colorspace = "display-p3"
+#shell-integration-features = no-cursor,sudo,no-title
+#cursor-style = block
+#mouse-scroll-multiplier = 2
+#window-padding-balance = true
+#window-save-state = always
+#window-colorspace = "display-p3"
 
 # split
 keybind = shift+ctrl+\=new_split:right
