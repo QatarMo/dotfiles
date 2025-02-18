@@ -7,7 +7,7 @@
     "output": [ "*" ],
     "position": "top",
     "mod": "dock",
-    "height": 23,
+    "height": 24,
     "exclusive": true,
     "passthrough": false,
     "gtk-layer-shell": true,
@@ -276,7 +276,7 @@
     },
 
     "tray": {
-        "icon-size": 13,
+        "icon-size": 14,
         "rotate": 0,
         "spacing": 5
     },
